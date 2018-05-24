@@ -1,0 +1,137 @@
+shot,157571
+Wounded,93922
+gun,67954
+suicide,64187
+accidental,59828
+murder,55886
+possession,48003
+Non-Shooting Incident,44811
+car,40965
+Officer,38875
+injury,36423
+crime,36329
+Shots Fired,35750
+Injuries,35750
+commission,30848
+death,29729
+arrest,25529
+Incident,24093
+subject,21877
+evidence,21765
+Home Invasion,21624
+DGU,19723
+armed robbery,19723
+Brandishing,19017
+raid,17974
+ATF,17974
+LE Confiscation,17974
+felon,17155
+person,17155
+drug involvement,17088
+Defensive Use,16932
+Accidental Shooting,15894
+street,13655
+drive-by,13655
+business,11629
+group,11043
+institution,11043
+Domestic Violence,10840
+victim,9966
+perpetrator,8433
+warrant,7555
+Negligent Discharge,6422
+owner,6312
+gang involvement,5671
+TSA Action,5036
+Car-jacking,4944
+Child,4733
+bar,4588
+establishment,4588
+club incident,4588
+weapon,3984
+resident,3916
+Pistol-whipping,3751
+perpetrator shot,3697
+drug,3494
+alcohol,3494
+influence,3494
+standoff,3264
+Non-Aggression Incident,3050
+School Incident,2804
+Kidnapping,2676
+hostage,2676
+abduction,2676
+shooter,2329
+Shootout,2329
+VENN diagram,2329
+school,2307
+perpetrator surrender,2288
+law enforcement,2278
+secondary school,2262
+action,2165
+criminal act,2145
+stolen gun,2145
+road rage,2140
+AK-47,2045
+AR-15,2045
+assault weapon,2045
+Self-Inflicted,1887
+suicide attempt,1887
+PERP,1887
+location,1728
+BB,1715
+replica gun,1715
+pellet,1715
+Mass Shooting,1633
+GV Incident Occurred Onsite,1478
+LOCKDOWN,1478
+ALERT,1478
+Castle Doctrine,1392
+Ground,1392
+Implied Weapon,1272
+Concealed Carry License,1187
+perpetrator suicide,1124
+officer shot,1090
+child shooter,964
+sale,777
+unlawful purchase,777
+house party,767
+animal shot,723
+ShotSpotter,702
+sex crime,654
+firearm,654
+attempt,602
+gun shop robbery,597
+burglary,597
+Police Targeted,575
+Good Samaritan,537
+Party,537
+hunting accident,504
+Attempted Murder,469
+college,437
+university,437
+gun shop,434
+gun range,434
+gun show shooting,434
+thought gun,403
+multiple location,398
+Spree Shooting,398
+multiple victim,398
+School Shooting,392
+self,381
+accidental discharge,230
+disgruntled employee,175
+workplace shooting,175
+cop,148
+bystander shot,140
+deceased victim,95
+Mass Murder,95
+ghost gun,81
+intruder,80
+family,80
+Mistaken ID,80
+friend,80
+threat,80
+Terrorism Involvement,29
+Political Violence,13
+NAV,2
